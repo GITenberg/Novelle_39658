@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8896
     wikipedia: http://it.wikipedia.org/wiki/Cesare_Balbo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39658#Novelle
 gutenberg_bookshelf: IT Racconti
 gutenberg_issued: '2012-05-08'
 gutenberg_type: Text
